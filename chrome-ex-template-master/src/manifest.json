@@ -1,6 +1,6 @@
 {
-  "name": "Chrome拡張の雛形です",
-  "description": "これから作るものにあわせて変更してください。",
+  "name": "パタパタ",
+  "description": "タブ切り替えです。",
   "version": "0.1",
   "manifest_version": 2,
   "content_scripts": [{
